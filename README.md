@@ -12,6 +12,8 @@ Pong is a moderate take on the classic Pong game, implemented in Java using Swin
 *Player 1 (Left Paddle)*
 - Move Up: W
 - Move Down: S
+
+
 *Player 2 (Right Paddle)*
 - Move Up: UP ARROW
 - Move Down: DOWN ARROW
